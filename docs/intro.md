@@ -22,13 +22,13 @@ Or **try the online compiler** from **[W3Schools](https://www.w3schools.com/html
 
 ## Create new project
 
-Create a new folder on your system such as "DEV" or "Projects" or another folder.
+Create a new folder on your system such as "DEV" or Projects or another folder.
 
 - Downloading Files:
    - Download the files via NPM or
    - directly from [GitHub](https://github.com/blackredit/npm-files)
 
-Open a new CMD window in the folder on your system and enter the following (Download via NPM):
+Open a new CMD window in the folder on your system and enter the following(Download NPM):
 
 ```bash
 npm i git-fsd-it-tutorial
@@ -36,19 +36,19 @@ npm i git-fsd-it-tutorial
 
 You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
 
-The command also installs all necessary dependencies you need to run Docusaurus.
+The command also installs all necessary dependencies you need to run a Project.
 
 ## Start your site
 
 Run the development server:
 
 ```bash
-cd my-website
+cd "your-path-to-folder"
 npm run start
 ```
 
 The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
 
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
+The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:port/.
 
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+That's all you need to complete the tutorials. Now select your tutorial from the menu.
