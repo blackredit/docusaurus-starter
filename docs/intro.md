@@ -4,27 +4,34 @@ sidebar_position: 1
 
 # Tutorial Intro
 
-Let's discover **Docusaurus in less than 5 minutes**.
+Let's start with **HTML in less than 5 minutes**.
 
 ## Getting Started
 
-Get started by **creating a new site**.
+Get started by **downloading Software**.
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+Or **try the online compiler** from **[W3Schools](https://www.w3schools.com/html/tryit.asp?filename=tryhtml_default)**.
 
 ### What you'll need
 
-- [Node.js](https://nodejs.org/en/download/) version 18.0 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+- Text- or Code Editor:
+  - In this Tutorial we use [Visual Studio Code(VS Code)](https://code.visualstudio.com/download).
+  - Or use the simple and easy software [Notepad++.](https://notepad-plus-plus.org/downloads).
+- a modern Browser such as Google Chrome, Microsoft Edge or other
+- That's it, that's all you need.
 
-## Generate a new site
+## Create new project
 
-Generate a new Docusaurus site using the **classic template**.
+Create a new folder on your system such as "DEV" or Projects or another folder.
 
-The classic template will automatically be added to your project after you run the command:
+- Downloading Files:
+   - Download the files via NPM or
+   - directly from [GitHub](https://github.com/blackredit/npm-files)
+
+Open a new CMD window in the folder on your system and enter the following(Download NPM):
 
 ```bash
-npm init docusaurus@latest my-website classic
+npm i git-fsd-it-tutorial
 ```
 
 You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
