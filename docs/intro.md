@@ -22,13 +22,13 @@ Or **try the online compiler** from **[W3Schools](https://www.w3schools.com/html
 
 ## Create new project
 
-Create a new folder on your system such as "DEV" or Projects or another folder.
+Create a new folder on your system such as "DEV" or "Projects" or another folder.
 
 - Downloading Files:
    - Download the files via NPM or
    - directly from [GitHub](https://github.com/blackredit/npm-files)
 
-Open a new CMD window in the folder on your system and enter the following(Download NPM):
+Open a new CMD window in the folder on your system and enter the following (Download via NPM):
 
 ```bash
 npm i git-fsd-it-tutorial
