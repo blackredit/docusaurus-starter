@@ -8,8 +8,7 @@ const FeatureList = [
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+We do everything we can to ensure that our content is easy to understand.
       </>
     ),
   },
@@ -18,18 +17,16 @@ const FeatureList = [
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+We want you to take away as much as possible from our courses. To achieve this, we focus on the essentials and you focus on our content.
       </>
     ),
   },
   {
-    title: 'Powered by React',
+    title: 'Powered by technology',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+We use the latest software and hosting providers to ensure that our site stays online as well as possible and that you can benefit from the content.
       </>
     ),
   },
