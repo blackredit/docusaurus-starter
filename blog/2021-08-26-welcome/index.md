@@ -1,15 +1,15 @@
 ---
 slug: welcome
-title: Welcome
+title: Welcome 👋
 authors: [fin]
 tags: [welcome, hello, docusaurus]
 ---
 
-[Docusaurus blogging features](https://docusaurus.io/docs/blog) are powered by the [blog plugin](https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-content-blog).
+Hello thank you for landing here with us.
 
-Simply add Markdown files (or folders) to the `blog` directory.
+On this page we will publish tutorials on various program languages and create regular blog posts.
 
-Regular blog authors can be added to `authors.yml`.
+If you have any questions, please email us at: info@online-media.tech.
 
 The blog post date can be extracted from filenames, such as:
 
