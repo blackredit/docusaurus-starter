@@ -8,8 +8,8 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'My Site',
-  tagline: 'Dinosaurs are cool',
+  title: 'Code- School',
+  tagline: 'Learn to Code',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
@@ -130,6 +130,15 @@ const config = {
           },
         ],
         copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+           
+        <div>
+      <a href="https://app.netlify.com/sites/fsd-it/deploys" target="_blank" rel="noopener noreferrer">
+        <img
+          src="https://api.netlify.com/api/v1/badges/e3685bbf-d7c2-4f54-92c5-aa78e254ab9a/deploy-status"
+          alt="Netlify Status"
+        />
+      </a>
+    </div>
       },
       prism: {
         theme: prismThemes.github,
