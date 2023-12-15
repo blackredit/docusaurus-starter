@@ -10,7 +10,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 const config = {
   title: 'Code- School',
   tagline: 'Learn to Code',
-  favicon: 'img/favicon.ico',
+  favicon: 'icons8-code-96.ico',
 
   // Set the production url of your site here
   url: 'https://your-docusaurus-site.example.com',
