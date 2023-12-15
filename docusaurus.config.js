@@ -10,7 +10,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 const config = {
   title: 'Code- School',
   tagline: 'Learn to Code',
-  favicon: 'img/icons8-code-96.png',
+  favicon: 'https://raw.githubusercontent.com/blackredit/docusaurus-starter/main/img/icons8-code-96.png',
 
   // Set the production url of your site here
   url: 'https://your-docusaurus-site.example.com',
@@ -69,7 +69,7 @@ const config = {
         title: 'The Code- School',
         logo: {
           alt: 'Site logo',
-          src: 'img/icons8-code-96.png',
+          src: 'https://raw.githubusercontent.com/blackredit/docusaurus-starter/main/img/icons8-code-96.png',
         },
         items: [
           {
