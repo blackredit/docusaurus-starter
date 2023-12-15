@@ -10,7 +10,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 const config = {
   title: 'Code- School',
   tagline: 'Learn to Code',
-  favicon: 'img/icons8-code-96.ico',
+  favicon: 'img/icons8-code-96.png',
 
   // Set the production url of your site here
   url: 'https://your-docusaurus-site.example.com',
@@ -20,8 +20,8 @@ const config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'blackredit', // Usually your GitHub org/user name.
+  projectName: 'docusaurus-starter', // Usually your repo name.
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -69,7 +69,7 @@ const config = {
         title: 'The Code- School',
         logo: {
           alt: 'Site logo',
-          src: 'img/icons8-code-96.ico',
+          src: 'img/icons8-code-96.png',
         },
         items: [
           {
@@ -80,7 +80,7 @@ const config = {
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/facebook/docusaurus',
+            href: 'https://github.com/blackredit',
             label: 'GitHub',
             position: 'right',
           },
@@ -124,7 +124,7 @@ const config = {
               },
               {
                 label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                href: 'https://github.com/blackredit',
               },
             ],
           },
