@@ -130,15 +130,6 @@ const config = {
           },
         ],
         copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
-           
-        <div>
-      <a href="https://app.netlify.com/sites/fsd-it/deploys" target="_blank" rel="noopener noreferrer">
-        <img
-          src="https://api.netlify.com/api/v1/badges/e3685bbf-d7c2-4f54-92c5-aa78e254ab9a/deploy-status"
-          alt="Netlify Status"
-        />
-      </a>
-    </div>
       },
       prism: {
         theme: prismThemes.github,
