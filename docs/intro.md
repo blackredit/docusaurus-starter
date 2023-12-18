@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # Tutorial Intro
 
-Let's start with **HTML in less than 5 minutes**.
+Let's start with **Code**.
 
 ## Getting Started
 
