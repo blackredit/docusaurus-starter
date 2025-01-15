@@ -1,19 +1,20 @@
-facebook:
-  label: Facebook
-  permalink: /facebook
-  description: Facebook tag description
+roblox:
+  label: Roblox
+  permalink: /roblox
+  description: Roblox Updates
 
-hello:
-  label: Hello
-  permalink: /hello
-  description: Hello tag description
+dev- updates:
+  label: Dev- Updates
+  permalink: /dev
+  description: Dev- Updates
 
-docusaurus:
-  label: Docusaurus
-  permalink: /docusaurus
-  description: Docusaurus tag description
+general:
+  label: General
+  permalink: /general
+  description: All general Posts
 
-hola:
-  label: Hola
-  permalink: /hola
-  description: Hola tag description
+staff:
+  label: Staff
+  permalink: /staff
+  description: All general Posts
+  
