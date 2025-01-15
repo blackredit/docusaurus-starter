@@ -3,19 +3,18 @@ sidebar_position: 1
 ---
 
 # Docs Intro
-
+Documentation website for the Roblox game BloxyStores PLC.
 This document describes how BloxyStores team members should behave when representing BloxyStores PLC.
 
-## Getting Started
+## How do I use this website?
 
-Get started by **creating a new site**.
-
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+On the left side you will find a menu. There are two sub-items in this menu. These are called ‘Roblox’ and ‘Discord’. 
+In these there are additional options that you can click on. These are the topics. 
+You can simply call up a topic and have the corresponding content displayed and read it. Try it out, it's easy!
 
 ### What you'll need
 
-- [Node.js](https://nodejs.org/en/download/) version 18.0 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+- Just a modern browser. **Nothing more!**
 
 ## Generate a new site
 
