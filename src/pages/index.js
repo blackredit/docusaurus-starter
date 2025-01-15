@@ -33,7 +33,7 @@ export default function Home() {
   return (
     <Layout
       title={`Hello from ${siteConfig.title}`}
-      description="Description will go into a meta tag in <head />">
+      description="Documentation website for the Roblox game BloxyStores PLC.">
       <HomepageHeader />
       <main>
         <HomepageFeatures />
