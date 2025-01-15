@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # Docs Intro
 
-Let's discover **Docusaurus in less than 5 minutes**.
+This document describes how BloxyStores team members should behave when representing BloxyStores PLC.
 
 ## Getting Started
 
